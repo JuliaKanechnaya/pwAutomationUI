@@ -5,6 +5,7 @@
 
 # dependencies
 /node_modules
+/.env
 
 # IDEs and editors
 /.idea
@@ -45,3 +46,4 @@ node_modules/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+
