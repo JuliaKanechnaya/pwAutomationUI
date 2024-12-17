@@ -10,7 +10,8 @@
     "ng": "ng",
     "start": "ng serve",
     "datePicker": "npx playwright test datePicker.spec.ts --headed",
-    "dragAndDrop": "npx playwright test dragAndDrop.spec.ts --headed"
+    "dragAndDrop": "npx playwright test dragAndDrop.spec.ts --headed",
+    "droppable": "npx playwright test droppable.spec.ts --headed"
   },
   "dependencies": {
     "@angular/animations": "^14.2.12",
